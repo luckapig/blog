@@ -1,0 +1,1 @@
+import{u as r,g as u}from"./bootstrap-b9dab7bb.mjs";const s=(a,t)=>{const o=r(),e=u(o.payload.state,a);return e.value===void 0&&t&&(e.value=t()),e},g=()=>s("isLoading",()=>!1),c=()=>s("blogSettings",()=>({})),l=()=>s("storeBlogSettings",()=>!1),d=()=>s("headMessage",()=>""),b=()=>s("errorMessage",()=>"");export{d as a,b,c,l as d,g as u};
