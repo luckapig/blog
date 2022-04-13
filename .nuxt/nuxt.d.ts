@@ -6,6 +6,7 @@
 /// <reference path="vue-shim.d.ts" />
 /// <reference types="vue-router" />
 /// <reference path="middleware.d.ts" />
+/// <reference path="components.d.ts" />
 /// <reference path="auto-imports.d.ts" />
 /// <reference path="imports.d.ts" />
 
